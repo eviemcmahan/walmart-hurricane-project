@@ -1,6 +1,7 @@
 # Team Charter
 
 **Team:** Evie McMahan, Julia McPhillips, Honor Dold
+
 **Notebook Owner:** Evie McMahan
 
 ---
