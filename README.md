@@ -1,6 +1,6 @@
 # Walmart Hurricane Analytics
 
-**DS2002 Data Science Systems | Midterm Group Project | Fall 2026 | University of Virginia**
+**DS2002 Data Science Systems**
 
 **Team HEJ:** Evie McMahan, Julia McPhillips, Honor Dold
 
@@ -35,7 +35,7 @@ walmart-hurricane-project/
 
 ## How to run
 
-Open `notebooks/team_notebook.ipynb` in Colab or Jupyter and choose Restart and run all.
+Open `notebooks/team_notebook.ipynb` in Colab or download it and choose Restart and run all.
 
 ## Method
 
