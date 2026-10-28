@@ -8,10 +8,10 @@
 
 | What | Where |
 |---|---|
-| The full analysis (cleaning, weather API, all five questions) | [`notebooks/team_notebook.ipynb`](notebooks/team_notebook.ipynb) |
+| Our analysis (cleaning, weather API, and all five questions) | [`notebooks/team_notebook.ipynb`](notebooks/team_notebook.ipynb) |
 | Our slide presentations | `PRESENTATION`|
 | Our reflection after completing the analysis | [`REFLECTION.md`](REFLECTION.md) |
-| Our team goals, roles, and working agreement | [`CHARTER.md`](CHARTER.md) |
+| Our team goals, roles, and agreement | [`CHARTER.md`](CHARTER.md) |
 
 ## Repository contents
 
@@ -35,7 +35,7 @@ walmart-hurricane-project/
 
 ## How to run
 
-Open `notebooks/team_notebook.ipynb` in Colab or Jupyter and choose Restart and run all. It needs internet for the weather pull and no API key. It finds the data in `data/` or `../data`.
+Open `notebooks/team_notebook.ipynb` in Colab or Jupyter and choose Restart and run all.
 
 ## Method
 
@@ -45,7 +45,7 @@ Open `notebooks/team_notebook.ipynb` in Colab or Jupyter and choose Restart and 
 
 ## Findings
 
-1. **Surge:** Breakfast (only Strawberry Pop-Tarts) surged the most (+414%). Emergency, Electronics, Entertainment and Alcohol products also rose, but Snacks barely increased.
+1. **Surge:** Breakfast (only Strawberry Pop-Tarts) surged the most at +414%. Emergency, Electronics, Entertainment and Alcohol products also rose, but Snacks barely increased.
 2. **Pop-Tarts:** Four SKUs hid the true Pop-Tart surge. Combined, Pop-Tart volume peaked at 9.3 times baseline on Sept 25.
 3. **Weather:** Sales line up best with wind 2 days later, showing that customers stocked up prior to the storm.
 4. **Stores:** Every store surged 2.2 to 2.7 times, and distance from landfall didn't explain a variation in the level of the surge.
