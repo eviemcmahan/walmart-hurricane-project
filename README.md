@@ -9,7 +9,7 @@
 | What | Where |
 |---|---|
 | Our analysis (cleaning, weather API, and all five questions) | [`notebooks/team_notebook.ipynb`](notebooks/team_notebook.ipynb) |
-| Our slide presentations | `PRESENTATION`|
+| Our slide presentations | [`PRESENTATION.pdf`](PRESENTATION.md)|
 | Our reflection after completing the analysis | [`REFLECTION.md`](REFLECTION.md) |
 | Our team goals, roles, and agreement | [`CHARTER.md`](CHARTER.md) |
 
