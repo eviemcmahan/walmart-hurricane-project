@@ -49,4 +49,4 @@ Open `notebooks/team_notebook.ipynb` in Colab or download it and choose Restart 
 2. **Pop-Tarts:** Four SKUs hid the true Pop-Tart surge. Combined, Pop-Tart volume peaked at 9.3 times baseline on Sept 25.
 3. **Weather:** Sales line up best with wind 2 days later, showing that customers stocked up prior to the storm.
 4. **Stores:** Every store surged 2.2 to 2.7 times, and distance from landfall didn't explain a variation in the level of the surge.
-5. **Board games:** The +250% was not an artifact, but it only covers the two peak days. Over the full surging period, electronic sales increased about +126% to +145%. We found no sign of SKU miscoding, category lumping or inventory lag.
+5. **Board games:** The +250% was not an artifact, but it does only covers the two peak days. Over the full surging period, entertainment sales increased about +126% to +145%. We found no sign of SKU miscoding, category lumping or inventory lag.
