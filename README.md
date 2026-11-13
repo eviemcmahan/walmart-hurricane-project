@@ -9,7 +9,7 @@
 | What | Where |
 |---|---|
 | Our analysis (cleaning, weather API, and all five questions) | [`notebooks/team_notebook.ipynb`](notebooks/team_notebook.ipynb) |
-| Our slide presentations | [`PRESENTATION.pdf`](PRESENTATION.md)|
+| Our slide presentations | [`PRESENTATION.pdf`](PRESENTATION.pdf)|
 | Our reflection after completing the analysis | [`REFLECTION.md`](REFLECTION.md) |
 | Our team goals, roles, and agreement | [`CHARTER.md`](CHARTER.md) |
 
@@ -20,7 +20,7 @@ walmart-hurricane-project/
 |-- README.md
 |-- CHARTER.md
 |-- REFLECTION.md
-|-- PRESENTATION
+|-- PRESENTATION.pdf
 |-- data/
 |   |-- walmart_transactions.csv      point-of-sale records, Florida stores, Sept 2024
 |   |-- store_locations.csv           store metadata
